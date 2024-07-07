@@ -24,11 +24,14 @@ Hello Hiring Managers and Recruiters,<br><br>
 - BS Information Technology Graduated 2024
  <br>CompTIA A+
  <br>CompTIA Network+
-<br>CompTIA Security+
+ <br>CompTIA Security+
  <br>CompTIA Project+
  <br>AWS Cloud Practitioner
  <br>ITIL v4
+ </br>
 
+<h2>🏆Other Skills</h2>
+Exceptional Customer Service | Planning and Organization | Hardware and Software TroubleShooting | Basic MySQL | Basic Networking / Security | 
 
 <h2> 🤳 Connect with me:</h2>
 
