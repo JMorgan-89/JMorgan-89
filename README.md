@@ -1,5 +1,8 @@
 <h1>Hi, I'm Josh Morgan! <br/>
 
+<h2>About Me </h2>
+Hello hiring managers and  recruiters. I just graduated from WGU(Western Govenors University) with a BS in Information Technology. 
+
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
