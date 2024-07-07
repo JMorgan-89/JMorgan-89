@@ -38,7 +38,7 @@ Exceptional Customer Service | Planning and Organization | Hardware and Software
 
 [<img align="left" alt="JoshMorgan | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />][linkedin]
 
-
 [linkedin]: https://www.linkedin.com/in/josh-morgan89/]
+
 
 
