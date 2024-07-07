@@ -19,16 +19,17 @@ Hello Hiring Managers and Recruiters,<br><br>
 
   
 
-<h2> 📖 Education & Certifications(Can be validated on LinkedIn)</h2>
+<h2> 📖 Education & Certifications</h2>
 <b>Western Governors University</b><br>
 - BS Information Technology Graduated 2024
- <br>CompTIA A+
- <br>CompTIA Network+
- <br>CompTIA Security+
- <br>CompTIA Project+
- <br>AWS Cloud Practitioner
- <br>ITIL v4
- </br>
+ <p><a href="https://drive.google.com/file/d/1ellekhWJQZ5iKrFpLYWQ7gy4B32i-q-q/view?usp=drive_link">CompTIA A+ </a></p> 
+ <p><a href="https://drive.google.com/file/d/1i1ORUxsOQwkdxNdOPLkyj3lkQYBJgm3K/view?usp=drive_link">CompTIA Network+  </a></p>
+ <p><a href="https://drive.google.com/file/d/1uXPAl8f-Y-OLmAQbY1LkPnm_TJgTaRSP/view?usp=drive_link">CompTIA Security+ </a></p> 
+ <p><a href="https://drive.google.com/file/d/1K2_1sLKlkbjgVkENEmcHOS82LkEPQMbq/view?usp=drive_link">CompTIA Project+ </a></p>
+ <p><a href="https://drive.google.com/file/d/1vnXT3plwUzEskjZl1NSZdUVIBgferoHy/view?usp=drive_link">AWS Cloud Practitioner </a></p>
+ <p><a href="https://drive.google.com/file/d/1-k6c6I3ED8pPvELUHBU5J69-ah6BOKBh/view?usp=drive_link">ITIL v4 </a></p>
+
+ 
 
 <h2>🏆Other Skills</h2>
 Exceptional Customer Service | Planning and Organization | Hardware and Software TroubleShooting | Basic MySQL | Basic Networking / Security | 
