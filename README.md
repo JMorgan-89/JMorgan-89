@@ -19,7 +19,7 @@ I am seeking IT Support or Support Analyst role where I can apply my technical s
 
   
 
-<h2> Education & Certifications</h2>
+<h2> 📖 Education & Certifications</h2>
 <b>Western Governors University</b><br>
 - BS Information Technology Graduated 2024
 
