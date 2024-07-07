@@ -13,8 +13,9 @@ Hello Hiring Managers and Recruiters,<br><br>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://medium.com/@joshcoolblue89/active-directory-personal-home-lab-with-powershell-f9bc509f18de)
+- [Active Directory Home Lab](https://medium.com/@joshcoolblue89/active-directory-personal-home-lab-with-powershell-f9bc509f18de)
+- 
+
 
   
 
