@@ -22,11 +22,17 @@ Hello Hiring Managers and Recruiters,<br><br>
 <h2> 📖 Education & Certifications</h2>
 <b>Western Governors University</b><br>
 - BS Information Technology Graduated 2024
+ <br>CompTIA A+
+ <br>CompTIA Network+
+<br>CompTIA Security+
+ <br>CompTIA Project+
+ <br>AWS Cloud Practitioner
+ <br>ITIL v4
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />][linkedin]
+[<img align="left" alt="JoshMorgan | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/josh-morgan89/]
