@@ -19,7 +19,7 @@ Hello Hiring Managers and Recruiters,<br><br>
 
   
 
-<h2> 📖 Education & Certifications</h2>
+<h2> 📖 Education & Certifications(Can be validated on LinkedIn)</h2>
 <b>Western Governors University</b><br>
 - BS Information Technology Graduated 2024
  <br>CompTIA A+
