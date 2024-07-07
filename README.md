@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [Active Directory Home Lab ]
-<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Home Lab](https://medium.com/@joshcoolblue89/active-directory-personal-home-lab-with-powershell-f9bc509f18de)
+
   
 
 <h2> Education & Certifications</h2>
