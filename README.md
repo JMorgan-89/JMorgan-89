@@ -19,10 +19,13 @@ Hello Hiring Managers and Recruiters,<br><br>
 
   
 
-<h2> 📖 Education & Certifications</h2>
+<h2> 📖 Education & Certification </h2>
 <b>Western Governors University</b><br>
-- BS Information Technology Graduated 2024
- <p><a href="https://drive.google.com/file/d/1ellekhWJQZ5iKrFpLYWQ7gy4B32i-q-q/view?usp=drive_link">CompTIA A+ </a></p> 
+- BS Information Technology Graduated 2024 <br>
+- Capstone IT Proposal Excellence Reward <p><a href="https://drive.google.com/file/d/197LxVDAHV_qEDbBozxVXWbGcoBUqhjsI/view?usp=drive_link">Capstone Award </a></p> 
+<br><b>Ivy Tech Community College</b>
+<br>- AAS Criminal Justice Graduated 2018
+ <br><br><p><a href="https://drive.google.com/file/d/1ellekhWJQZ5iKrFpLYWQ7gy4B32i-q-q/view?usp=drive_link">CompTIA A+ </a></p> 
  <p><a href="https://drive.google.com/file/d/1i1ORUxsOQwkdxNdOPLkyj3lkQYBJgm3K/view?usp=drive_link">CompTIA Network+  </a></p>
  <p><a href="https://drive.google.com/file/d/1uXPAl8f-Y-OLmAQbY1LkPnm_TJgTaRSP/view?usp=drive_link">CompTIA Security+ </a></p> 
  <p><a href="https://drive.google.com/file/d/1K2_1sLKlkbjgVkENEmcHOS82LkEPQMbq/view?usp=drive_link">CompTIA Project+ </a></p>
