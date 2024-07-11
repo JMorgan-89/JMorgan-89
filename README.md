@@ -14,6 +14,7 @@ Hello Hiring Managers and Recruiters,<br><br>
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JMorgan-89/ActiveDirectoryHomeLab)
+- [Active Directory Password Reset](https://github.com/JMorgan-89/Active-Directory-Password-Reset)
   
 
 
