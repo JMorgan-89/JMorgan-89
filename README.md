@@ -15,6 +15,10 @@ Hello Hiring Managers and Recruiters,<br><br>
 
 - [Active Directory Home Lab](https://github.com/JMorgan-89/ActiveDirectoryHomeLab)
 - [Active Directory Password Reset](https://github.com/JMorgan-89/Active-Directory-Password-Reset)
+
+<h2>☁️ AWS Cloud Projects: Coming Soon!!!</h2>
+
+  
   
 
 
