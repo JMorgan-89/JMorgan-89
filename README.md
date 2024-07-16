@@ -29,8 +29,9 @@ I am eager to leverage my technical skills and customer service experience in an
 
 - [Active Directory Home Lab](https://github.com/JMorgan-89/ActiveDirectoryHomeLab)
 - [Active Directory Password Reset](https://github.com/JMorgan-89/Active-Directory-Password-Reset)
+- [Jira IT Ticket Tool](https://github.com/JMorgan-89/Jira-Ticketing-System-Tool)
 
-<h2>☁️ AWS Cloud Projects: Coming Soon!!!</h2>
+<h2>🛜CCNA Labs Coming Soon!!</h2>
 
   
   
