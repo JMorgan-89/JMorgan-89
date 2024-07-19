@@ -20,7 +20,7 @@ Recently, I graduated with a Bachelor of Science in Information Technology from 
 - MySQL and database management fundamentals
 - Web design, networking, and security
 
-During my studies, I also completed several Active Directory projects, gaining practical experience in managing and configuring Active Directory environments, including user and group management, Group Policy configuration, and password resets. 
+During my studies, I also completed several Active Directory projects, gaining practical experience in managing and configuring Active Directory environments, including user and group management, Group Policy configuration, and password resets. I also have some experience with Jira Service Management and created a step by step guide on how to create and close tickets.
 
 I am eager to leverage my technical skills and customer service experience in an IT Support or Support Analyst role. I am dedicated to continuous learning and professional growth, and I am confident that I can make a valuable contribution to your team. 
 
