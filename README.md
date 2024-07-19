@@ -41,7 +41,7 @@ I am eager to leverage my technical skills and customer service experience in an
 
 <h2> 📖 Education & Certification </h2>
 <b>Western Governors University</b><br>
-- BS Information Technology Graduated 2024 <br>
+- BS Information Technology Graduated 2024  <br> <p><a href="https://drive.google.com/file/d/1jgUvcRBZECoE9TWpwg_-sgbn0lW-b4vv/view?usp=drive_link">BS Degree  </a></p>
 - Capstone IT Proposal Excellence Reward <p><a href="https://drive.google.com/file/d/197LxVDAHV_qEDbBozxVXWbGcoBUqhjsI/view?usp=drive_link">Capstone Award </a></p> 
 <br><b>Ivy Tech Community College</b>
 <br>- AAS Criminal Justice Graduated 2018
