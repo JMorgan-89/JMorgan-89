@@ -1,28 +1,10 @@
 <h1>Hi, I'm Josh Morgan! <br/>
 
 <h2>About Me </h2>
-Hello Hiring Managers and Recruiters,<br><br>
 
 
-  Dear Hiring Managers and Recruiters,
 
-I am a highly motivated , resilient and ambitious technologist with a deep-seated passion for technology that began in my early years. 
-
-From playing PC video games, I developed a curiosity about the inner workings of computers, leading me to build gaming machines at the age of 15. Since then, I have been the go-to person for friends and family seeking upgrades and technical advice. This hands-on experience has honed my technical skills significantly.
-
-To further enhance my customer service abilities, I started my own auto detailing business. This venture required direct interaction with customers, managing their expectations, and ensuring the quality of work on their long-term investments. Additionally, I have worked in the hospitality industry as an Activities Assistant Director, where I enjoyed creating memorable experiences for guests and consistently received positive feedback.
-
-Recently, I graduated with a Bachelor of Science in Information Technology from Western Governors University. My education covered a wide range of IT domains, including:
-
-- Software development and programming concepts
-- Hardware components and troubleshooting
-- Project management principles and methodologies
-- MySQL and database management fundamentals
-- Web design, networking, and security
-
-During my studies, I also completed several Active Directory projects, gaining practical experience in managing and configuring Active Directory environments, including user and group management, Group Policy configuration, and password resets. I also have some experience with Jira Service Management and created a step by step guide on how to create and close tickets.
-
-I am eager to leverage my technical skills and customer service experience in an IT Support or Support Analyst role. I am dedicated to continuous learning and professional growth, and I am confident that I can make a valuable contribution to your team. 
+Welcome to my Github! Here is just a fun place to showcase my skills or knowledge that I have learned. Fun place to learn and IT related projects/labs.
 
 
 <h2>👨‍💻 IT Support Projects:</h2>
