@@ -4,7 +4,7 @@
 
 
 
-Welcome to my Github! Here is just a fun place to showcase my skills or knowledge that I have learned. Fun place to learn and IT related projects/labs.
+Welcome to my Github! Here is just a fun place to showcase my skills or knowledge that I have learned. 
 
 
 <h2>👨‍💻 IT Support Projects:</h2>
